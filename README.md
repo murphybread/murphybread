@@ -1,8 +1,7 @@
 # Personal My Own Blog
 [Murphy's Library](https://www.murphybooks.me/)
 
-![Murphybooks](https://github.com/murphybread/murphybread/assets/50486329/efefe02f-c782-44a1-92d3-e434525a29d6)
-
+<img src="https://github.com/murphybread/murphybread/assets/50486329/efefe02f-c782-44a1-92d3-e434525a29d6" alt="Murphybooks" width="400" height="350">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murphybread)](https://github.com/anuraghazra/github-readme-stats)
