@@ -5,7 +5,8 @@
 이야기하기를 좋아해서 편하신대로 연락주세요~
 
 개인 IT블로그를 운영중이며 단순한 기술내용이아닌 저의 고민이나 경험, 성찰 등의 주관적인 이야기를 위주로 담고있습니다.
-[개인 블로그 Murphy's Library](https://www.murphybooks.me/)
+
+[Murphy's Library](https://www.murphybooks.me/)
 
 Email: nargene@gmail.com
 
