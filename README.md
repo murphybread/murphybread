@@ -1,12 +1,17 @@
 # Personal My Own Blog
-[Murphy's Library](https://www.murphybooks.me/)
 
-<img src="https://github.com/murphybread/murphybread/assets/50486329/efefe02f-c782-44a1-92d3-e434525a29d6" alt="Murphybooks" width="400" height="350">
+안녕하세요. 고민하기를 좋아하는 웹 프론트엔드 개발자 머피입니다.
+현재 개발 경력은 없지만 약 2년 정도의 DevOps product 엔지니어 경력이 있습니다.
+이야기하기를 좋아해서 편하신대로 연락주세요~
 
+개인 IT블로그를 운영중이며 단순한 기술내용이아닌 저의 고민이나 경험, 성찰 등의 주관적인 이야기를 위주로 담고있습니다.
+[개인 블로그 Murphy's Library](https://www.murphybooks.me/)
+
+Email: nargene@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murphybread&hide=scss,nunjucks,hcl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%B0%AC-%EA%B9%80-aba89a243)
+
 
