@@ -1,4 +1,4 @@
-# Introduce myself
+# About me
 
 안녕하세요. 고민하기를 좋아하는 웹 백엔드 개발자 머피입니다.  
 약 2년 정도의 DevOps product 엔지니어 경력이 있습니다.
