@@ -6,9 +6,6 @@ AWS기반 환경에서 Docker, K8S, Linux local환경에따라 유연하게 대�
 주로 JavaScript를 사용하여 Express.js와 React를 통해 풀 스택 구현 경험이 있으며, Python이나 FastAPI를 필요한 경우 사용합니다.
 예전부터 생성형 AI를 통해 기존의 해결하지 못했던 문제들을 해결하는데 큰 흥미를 느끼며,특히 RAG에 흥미가 RAPTOR나 light RAG와 같은 다양한 아키텍쳐 형태를 통해 기존 RAG의 한계를 극복해보려고 시도해봤습니다.
 
-이야기하기를 좋아하는 편이라 편하게 연락주세요~
-
-개인 IT블로그를 운영중이며 단순한 기술내용이아닌 저의 고민이나 경험, 성찰 등의 주관적인 이야기를 위주로 담고있습니다.
 
 [Murphy's Library](https://www.murphybooks.me/)
 
